@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = "This Category";
+}
+@using Products.Models
+@model ViewModel
+@using System.Linq
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+<h1>@ViewBag.Category.CategoryName</h1>
+
+<form class="form" action="LinkCat2Prod/@Model.ViewCategory.Id" method="post" >
+  <div class="form-group" style="width: 20%;">
+    <input type="hidden" for="" value="@Model.ViewCategory.Id">
+    <label for="products">Products</label>
+    <select class="form-control">
+    @foreach(var prod in @Model.ProductList)
+    {
+        <option value="@prod.Id" >@prod.ProductName</option>
+    }
+    </select><br>
+    <button type="submit" class="btn btn-primary mt-4">Submit</button>
+  </div>
+</form>

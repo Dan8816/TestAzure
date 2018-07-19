@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Create Categories";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+@model Products.Models.NewCategory
+
+<h1>New Category</h1>
+
+<table>
+    <form asp-action="CreateCategory" class="form" asp-controller="Home" method="post">
+        <tr>
+            <td><label asp-for="CategoryName">Product Name:</label></td>
+            <td><input asp-for="CategoryName" type="text" name="CategoryName"></td>
+            <td><span asp-validation-for="CategoryName" style="color:red;"></span></td>
+        </tr>
+        <tr>
+            <td><button class="btn btn-primary">Create</button></td>
+        </tr>
+    </form>
+</table>

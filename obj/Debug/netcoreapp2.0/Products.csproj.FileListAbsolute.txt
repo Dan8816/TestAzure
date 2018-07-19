@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\bin\Debug\netcoreapp2.0\Products.deps.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\bin\Debug\netcoreapp2.0\Products.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\bin\Debug\netcoreapp2.0\Products.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\bin\Debug\netcoreapp2.0\Products.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\bin\Debug\netcoreapp2.0\Products.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\obj\Debug\netcoreapp2.0\Products.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\obj\Debug\netcoreapp2.0\Products.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\obj\Debug\netcoreapp2.0\Products.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\obj\Debug\netcoreapp2.0\Products.dll
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\obj\Debug\netcoreapp2.0\Products.pdb
+C:\Users\Administrator\Desktop\Dans_Git_Folder\c_sharp_stack\ORM\Entity\Products\obj\Debug\netcoreapp2.0\Products.csprojAssemblyReference.cache
